@@ -31,3 +31,7 @@ multi-brand services offering wide range of services.
 ✓ Service Status
 ✓ Change Password
 ✓ Logout
+
+
+![download](https://github.com/chinmay7111/ServicePortal/assets/106151106/ceeef0b7-ee90-4783-818f-a89fa112e346)
+
